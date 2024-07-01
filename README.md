@@ -4,11 +4,11 @@
 
 
 
-# 💫 Sur moi:
+# 💫 À propos de moi :
 🖥️ je suis Ingénieur développeur Full Stack.<br>🖥️  Voir mon portfolio sur Mon Portfolio.<br>✉️  Vous pouvez me contacter à soulekarim595@gmail.com<br>
 
 
-## 🌐 Socials:
+## 🌐 Réseaux sociaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
 
 # 💻 Technologies et outils:
